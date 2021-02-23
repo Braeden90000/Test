@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1613681864",layout:"default",error:null,state:{isGeneratingGif:a,generatingGifProgress:0,cancelGifGeneration:a,localStorage:{darkMode:b}},serverRendered:b,routePath:"\u002F",config:{}}}(false,true));
